@@ -1,4 +1,4 @@
-# Learn Cybersecurity
+# Cybersecurity Simplified
 
 ## Malware analysis and Reverse Engineering.
 
