@@ -1,4 +1,4 @@
-# Cybersecurity Simplified
+# Cybersecurity Simplified - Begin Your Cybersecurity Journey
 
 ## Malware analysis and Reverse Engineering.
 
